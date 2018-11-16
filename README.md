@@ -5,7 +5,7 @@ Using Express Js and MondoDB I could made a groupal chat and storage messages in
 You must to install the next dependencies:
 * express
 * mongoose
-* socket.in
+* socket.io
 * nodemon as a development dependencie
 
 ## Install
